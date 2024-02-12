@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a seasoned software engineer with a passion fo
   
 
 - **Trainee Software Engineer** at *Tata Consultancy Services* (Feb 2015 – Sep 2016)
+- **Internship** at *CMC Ltd (Oct 2014 - Feb 2015)
   
 
 ## 🚀 Part-Time Experience
