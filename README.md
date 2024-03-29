@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a seasoned software engineer with a passion for creating efficient and innovative solutions. Currently based in the USA.
 
 ## 👨‍💻 Work Experience
-- **DevOps/Cloud Engineer** at *Ashley Furniture Industries * (May 2022 – Present)
+- **DevOps/Cloud Engineer** at *Ashley Furniture Industries* (May 2022 – Present)
 - **Senior Software Engineer** at *Prolifics* (May 2019 – Jan 2022)
   
 
