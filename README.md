@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a seasoned software engineer with a passion for creating efficient and innovative solutions. Currently based in the USA.
 
 ## 👨‍💻 Work Experience
+- **DevOps/Cloud Engineer** at *Ashley Furniture Industries * (May 2022 – Present)
 - **Senior Software Engineer** at *Prolifics* (May 2019 – Jan 2022)
   
 
@@ -14,7 +15,7 @@ Welcome to my GitHub profile! I'm a seasoned software engineer with a passion fo
   
 
 ## 🚀 Part-Time Experience
-- **Team Leader** at *BOSS-Group, University of Wisconsin-Milwaukee* (Jun 2022 – Dec 2023)
+- **Team Leader** at *BOSS-Group, University of Wisconsin-Milwaukee* (Jan 2022 – May 2022)
   - Oversaw daily operations, managed communication channels, conducted training on accessibility vehicles, upheld high standards of attendance, and contributed significantly to the organization’s success.
 
 ## 🔧 Skills
