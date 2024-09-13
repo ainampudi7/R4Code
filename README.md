@@ -1,6 +1,6 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ravi Teja Ainampudi
 
-Welcome to my GitHub profile! I'm a seasoned software engineer with a passion for creating efficient and innovative solutions. Currently based in the USA.
+Welcome to my GitHub profile! I'm a seasoned software engineer passionate about creating efficient and innovative solutions. I am currently based in the USA.
 
 ## 👨‍💻 Work Experience
 - **DevOps/Cloud Engineer** at *Ashley Furniture Industries* (May 2022 – Present)
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a seasoned software engineer with a passion fo
 
 ## 🚀 Part-Time Experience
 - **Team Leader** at *BOSS-Group, University of Wisconsin-Milwaukee* (Jan 2022 – May 2022)
-  - Oversaw daily operations, managed communication channels, conducted training on accessibility vehicles, upheld high standards of attendance, and contributed significantly to the organization’s success.
+  - Oversaw daily operations, managed communication channels, conducted training on accessibility vehicles, upheld high attendance standards, and contributed significantly to the organization’s success.
 
 ## 🔧 Skills
 - **Programming Languages:** Core Java, JavaScript, C, C#, .NET, ASP.NET, Python
